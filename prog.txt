@@ -1,3 +1,5 @@
 So we're now pushing from linprog. 
 
 Let's see how that goes.
+
+Editing
